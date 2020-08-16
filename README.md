@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/alejandroalvarezvazquez/alejandroalvarezvazquez/master/wave.gif" width="30px">
 
-![](https://github.com/halfrost/halfrost/blob/master/header_.png)
+![](https://github.com/alejandroalvarezvazquez/alejandroalvarezvazquez/blob/master/header_.png)
 
 My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living in Mallorca and currently working at Avoris Travel. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
