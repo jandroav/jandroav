@@ -7,6 +7,7 @@ My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-MacOS-green?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOS-green?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI%2FCD-Jenkins-green?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Qa%26Sec-Sonarqube-brightgreen?style=flat&logo=sonarqube&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Groovy-green?style=flat&logo=java&logoColor=white&color=2bbc8a)
