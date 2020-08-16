@@ -18,6 +18,10 @@ My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living 
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Stack-Atlassian-green?style=flat&logo=atlassian&logoColor=white&color=2bbc8a)
 
+
+## Last Tweet
+<p><a href="https://www.twitter.com/jandroav"><img src="https://github.com/alejandroalvarezvazquez/alejandroalvarezvazquez/blob/master/tweet.png" width="600"></a></p>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alejandroalvarezvazquez/alejandroalvarezvazquez">
