@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/alejandroalvarezvazquez/alejandroalvarezvazquez/master/wave.gif" width="30px">
 
-My name is Alejandro and I'm CI/CD manager. I'm from Spain, living in Mallorca and currently working at Avoris Travel. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living in Mallorca and currently working at Avoris Travel. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
