@@ -1,6 +1,6 @@
-# Hello! <img src="https://raw.githubusercontent.com/alejandroalvarezvazquez/alejandroalvarezvazquez/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/jandroav/jandroav/master/wave.gif" width="30px">
 
-![](https://github.com/alejandroalvarezvazquez/alejandroalvarezvazquez/blob/master/header_.png)
+![](https://github.com/jandroav/jandroav/blob/master/header_.png)
 
 My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living in Mallorca and currently working at Avoris Travel. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
@@ -21,16 +21,16 @@ My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/alejandroalvarezvazquez/alejandroalvarezvazquez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroalvarezvazquez&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<a href="https://github.com/jandroav/jandroav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandroav&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </a>
-<a href="https://github.com/alejandroalvarezvazquez/alejandroalvarezvazquez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandroalvarezvazquez&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="alejandroalvarezvazquez's Github Stats" />
+<a href="https://github.com/jandroav/jandroav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jandroav&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="alejandroalvarezvazquez's Github Stats" />
 </a>
 
 <hr>
   <p  align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=alejandroalvarezvazquez.alejandroalvarezvazquez" alt="visitor badge" /> 
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jandroav.jandroav" alt="visitor badge" /> 
   </>
 </p>
 <!-- links to social media icons -->
@@ -44,12 +44,12 @@ My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/alejandroalvarezvazquez/alejandroalvarezvazquez/master/linkedin-3-16.png "LinkedIn icon without padding"
+[3.2]: https://raw.githubusercontent.com/jandroav/jandroav/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/jandroav
-[2]: https://github.com/alejandroalvarezvazquez
+[2]: https://github.com/jandroav
 [3]: https://www.linkedin.com/in/alejandro-alvarez-vazquez-43a83625/
 
 <!-- Resources -->
