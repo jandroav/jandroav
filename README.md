@@ -1,6 +1,6 @@
-# Hello! <img src="https://raw.githubusercontent.com/jandroav/jandroav/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/jandroav/jandroav/main/wave.gif" width="30px">
 
-![](https://github.com/jandroav/jandroav/blob/master/header_.png)
+![](https://github.com/jandroav/jandroav/blob/main/header_.png)
 
 My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living in Mallorca and currently working at Avoris Travel. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
@@ -44,7 +44,7 @@ My name is Alejandro and I'm CI/CD system administrator. I'm from Spain, living 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/jandroav/jandroav/master/linkedin-3-16.png "LinkedIn icon without padding"
+[3.2]: https://raw.githubusercontent.com/jandroav/jandroav/main/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
