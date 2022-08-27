@@ -2,7 +2,7 @@
 
 ![](https://github.com/jandroav/jandroav/blob/main/header_.png)
 
-My name is Alejandro (Jandro) and I'm DevOps Support Engineer. I'm from Spain, living in Mallorca and currently working at CloudBees. You can find me on [![Twitter][1.2]][1], or [![LinkedIn][3.2]][3].
+My name is Alejandro (Jandro) and I'm DevOps Support Engineer. I'm from Spain, living in Mallorca and currently working at Liquibase. You can find me on [![Twitter][1.2]][1], or [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
