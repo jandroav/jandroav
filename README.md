@@ -6,13 +6,17 @@ My name is Alejandro (Jandro) and I'm DevOps Engineer. I'm from Spain, living in
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-MacOS-green?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Ubuntu-brightgreen?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-GitHubActions-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI%2FCD-Jenkins-green?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Qa%26Sec-Sonarqube-brightgreen?style=flat&logo=sonarqube&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Groovy-green?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-brightgreen?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Go-brightgreen?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
