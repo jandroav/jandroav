@@ -6,7 +6,7 @@ My name is Alejandro (Jandro) and I'm DevOps Engineer. I'm from Spain, living in
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CD-GitHubActions-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
