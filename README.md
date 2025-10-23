@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](https://github.com/jandroav/jandroav/blob/main/header_.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake.svg">
+</picture>
 
 # 👋 Hi, I'm Alejandro (Jandro)
 
@@ -139,14 +143,6 @@ experimenting:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jandroav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="GitHub Activity Graph" />
 
 <br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
