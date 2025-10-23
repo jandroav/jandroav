@@ -28,10 +28,8 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 ### 🧠 AI Assistants & IDEs
 
 - **[Claude Code](https://claude.ai/code)** - Primary AI development assistant
-- **[Cursor](https://cursor.sh)** - AI-first code editor
 - **[Zed](https://zed.dev)** - Lightning-fast AI-powered editor
 - **[Cline](https://github.com/cline/cline)** - VS Code AI assistant
-- **[Continue](https://continue.dev)** - Open-source AI code assistant
 - **[Roo Code](https://rooscode.ai)** - AI pair programming
 
 </td>
