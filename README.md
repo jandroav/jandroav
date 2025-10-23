@@ -85,7 +85,7 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 ### Infrastructure & Monitoring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />
 </p>
 
 <br/>
