@@ -38,6 +38,7 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 ### ⚡ AI-Enhanced Tools
 
 - **[Warp Terminal](https://www.warp.dev)** - AI-powered terminal
+- **[GitHub Copilot](https://github.com/features/copilot)** - AI code completion
 - **[Airweave](https://airweave.ai)** - AI workflow automation
 - **[Codex](https://openai.com/blog/openai-codex)** - Code generation
 
