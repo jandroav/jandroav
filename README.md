@@ -13,9 +13,13 @@ Passionate about leveraging AI to build smarter infrastructure, faster pipelines
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alvarez-vazquez-43a83625/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=jandroav&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
 
 ## 🤖 AI-Powered Development Arsenal
 
@@ -48,42 +52,43 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 
 > 💡 **Philosophy**: AI doesn't replace engineering expertise - it amplifies it. I use AI to automate repetitive tasks, generate boilerplate, catch errors early, and focus on architecture and problem-solving.
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
 
 ## ☁️ DevOps & Cloud Infrastructure
 
 ### Cloud Platforms & Orchestration
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform&theme=dark" />
+</p>
 
 ### CI/CD & Automation
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab&theme=dark" />
+</p>
 
 ### Languages & Frameworks
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
-![Java](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,bash,java,maven&theme=dark" />
+</p>
 
 ### Infrastructure & Monitoring
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,vscode&theme=dark" />
+</p>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
 
 ## 🚀 Current Focus
 
@@ -104,7 +109,11 @@ experimenting:
   - Natural language infrastructure provisioning
 ```
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
 
 ## 📊 GitHub Analytics
 
@@ -123,9 +132,29 @@ experimenting:
   <img src="https://github-profile-trophy.vercel.app/?username=jandroav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </a>
 
+<br/>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jandroav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="GitHub Activity Graph" />
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jandroav/jandroav/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
 
 ## 🔗 Let's Connect
 
@@ -136,18 +165,24 @@ I'm always interested in discussing AI, DevOps, cloud architecture, and automati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alvarez-vazquez-43a83625/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandroav)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jandroav.jandroav" alt="Visitors" />
+<br/>
 
 **✨ Built with AI assistance using Claude Code**
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
 
 <!-- Resources -->
 <!-- Typing SVG: https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- GitHub Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- Trophies: https://github.com/ryo-ma/github-profile-trophy -->
+<!-- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- Contribution Snake: https://github.com/Platane/snk -->
+<!-- Skill Icons: https://github.com/tandpfun/skill-icons -->
 <!-- Shields: https://shields.io/ -->
-<!-- Icons: https://simpleicons.org/ -->
+<!-- Profile Views: https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- Capsule Render: https://github.com/kyechan99/capsule-render -->
