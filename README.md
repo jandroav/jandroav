@@ -44,7 +44,7 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 
 ### ⚡ AI-Enhanced Tools
 
-- **[Warp Terminal](https://www.warp.dev)** - AI-powered terminal
+- **[Warp Terminal](https://www.warp.dev)** - Agentic terminal
 - **[Airweave](https://airweave.ai)** - RAG
 - **[n8n](https://n8n.io)** - Workflow Automation
 
