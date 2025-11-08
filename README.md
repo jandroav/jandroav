@@ -33,7 +33,7 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 <tr>
 <td width="50%">
 
-### 🧠 AI Assistants & IDEs
+### 🧠 AI Assistants
 
 - **[Claude Code](https://claude.ai/code)**
 - **[GitHub Copilot](https://github.com/features/copilot)**
