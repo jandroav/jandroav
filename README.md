@@ -37,8 +37,9 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 
 - **[Claude Code](https://claude.ai/code)** - Primary AI development assistant
 - **[Zed](https://zed.dev)** - Lightning-fast AI-powered editor
-- **[Cline](https://github.com/cline/cline)** - VS Code AI assistant
-- **[Roo Code](https://rooscode.ai)** - AI pair programming
+- **[GitHub Copilot](https://github.com/features/copilot)** - AI code agent
+- **[Codex](https://openai.com/blog/openai-codex)** - AI code agent CLI
+- **[Roo Code](https://rooscode.ai)** - AI code agent
 
 </td>
 <td width="50%">
@@ -46,9 +47,8 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 ### ⚡ AI-Enhanced Tools
 
 - **[Warp Terminal](https://www.warp.dev)** - AI-powered terminal
-- **[GitHub Copilot](https://github.com/features/copilot)** - AI code completion
-- **[Airweave](https://airweave.ai)** - AI workflow automation
-- **[Codex](https://openai.com/blog/openai-codex)** - Code generation
+- **[Airweave](https://airweave.ai)** - RAG
+- **[n8n](https://n8n.io)** - Workflow Automation
 
 </td>
 </tr>
