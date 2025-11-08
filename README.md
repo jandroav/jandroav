@@ -31,7 +31,7 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 
 <table>
 <tr>
-<td width="60%">
+<td width="100%">
 
 ### 🧠 AI Assistants
 
@@ -40,7 +40,7 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 - **[Codex](https://openai.com/blog/openai-codex)**
 
 </td>
-<td width="60%">
+<td width="100%">
 
 ### ⚡ AI-Enhanced Tools
 
