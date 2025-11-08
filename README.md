@@ -35,18 +35,18 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 
 ### 🧠 AI Assistants & IDEs
 
-- **[Claude Code](https://claude.ai/code)** - Primary AI agent
-- **[GitHub Copilot](https://github.com/features/copilot)** - AI code agent
-- **[Codex](https://openai.com/blog/openai-codex)** - AI code agent CLI
+- **[Claude Code](https://claude.ai/code)**
+- **[GitHub Copilot](https://github.com/features/copilot)**
+- **[Codex](https://openai.com/blog/openai-codex)**
 
 </td>
 <td width="50%">
 
 ### ⚡ AI-Enhanced Tools
 
-- **[Warp Terminal](https://www.warp.dev)** - Agentic terminal
-- **[Airweave](https://airweave.ai)** - RAG
-- **[n8n](https://n8n.io)** - Workflow Automation
+- **[Warp Terminal](https://www.warp.dev)**
+- **[Airweave](https://airweave.ai)**
+- **[n8n](https://n8n.io)**
 
 </td>
 </tr>
