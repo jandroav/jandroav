@@ -36,10 +36,8 @@ I leverage AI at every stage of the development lifecycle - from ideation to dep
 ### 🧠 AI Assistants & IDEs
 
 - **[Claude Code](https://claude.ai/code)** - Primary AI development assistant
-- **[Zed](https://zed.dev)** - Lightning-fast AI-powered editor
 - **[GitHub Copilot](https://github.com/features/copilot)** - AI code agent
 - **[Codex](https://openai.com/blog/openai-codex)** - AI code agent CLI
-- **[Roo Code](https://rooscode.ai)** - AI code agent
 
 </td>
 <td width="50%">
